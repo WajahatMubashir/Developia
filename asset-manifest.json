@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Developia/static/css/main.76fbded7.chunk.css",
-    "main.js": "/Developia/static/js/main.04af26a4.chunk.js",
-    "main.js.map": "/Developia/static/js/main.04af26a4.chunk.js.map",
+    "main.js": "/Developia/static/js/main.fa3398a2.chunk.js",
+    "main.js.map": "/Developia/static/js/main.fa3398a2.chunk.js.map",
     "runtime-main.js": "/Developia/static/js/runtime-main.2fa5d30c.js",
     "runtime-main.js.map": "/Developia/static/js/runtime-main.2fa5d30c.js.map",
     "static/css/2.00144da2.chunk.css": "/Developia/static/css/2.00144da2.chunk.css",
-    "static/js/2.b8862d5f.chunk.js": "/Developia/static/js/2.b8862d5f.chunk.js",
-    "static/js/2.b8862d5f.chunk.js.map": "/Developia/static/js/2.b8862d5f.chunk.js.map",
+    "static/js/2.9c48f1b1.chunk.js": "/Developia/static/js/2.9c48f1b1.chunk.js",
+    "static/js/2.9c48f1b1.chunk.js.map": "/Developia/static/js/2.9c48f1b1.chunk.js.map",
     "index.html": "/Developia/index.html",
     "static/css/2.00144da2.chunk.css.map": "/Developia/static/css/2.00144da2.chunk.css.map",
     "static/css/main.76fbded7.chunk.css.map": "/Developia/static/css/main.76fbded7.chunk.css.map",
-    "static/js/2.b8862d5f.chunk.js.LICENSE.txt": "/Developia/static/js/2.b8862d5f.chunk.js.LICENSE.txt",
+    "static/js/2.9c48f1b1.chunk.js.LICENSE.txt": "/Developia/static/js/2.9c48f1b1.chunk.js.LICENSE.txt",
     "static/media/email.42491226.jpg": "/Developia/static/media/email.42491226.jpg",
     "static/media/front.08394e04.jpg": "/Developia/static/media/front.08394e04.jpg",
     "static/media/man.b56cb3f0.svg": "/Developia/static/media/man.b56cb3f0.svg",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.2fa5d30c.js",
     "static/css/2.00144da2.chunk.css",
-    "static/js/2.b8862d5f.chunk.js",
+    "static/js/2.9c48f1b1.chunk.js",
     "static/css/main.76fbded7.chunk.css",
-    "static/js/main.04af26a4.chunk.js"
+    "static/js/main.fa3398a2.chunk.js"
   ]
 }
