@@ -125,6 +125,7 @@
 
 @media (max-width: 991px) {
   #header {
+    width: 100vw !important;
     margin-top: 80vh !important;
     text-align: center;
   }
@@ -136,12 +137,17 @@
   #header .header-img img{
     width: 60%;
   }
+
+  #resCenter{
+    width: 80vw !important ;
+  }
 }
 
 
 @media (max-width:768px) {
   #header {
-    margin-top: 20px;
+    width: 100vw !important;
+    margin-top: 10px;
   }
 
   #header h1{
@@ -156,8 +162,11 @@
   #header .header-img img{
     width: 70%;
   }
-}
 
+#resCenter{
+    width: 80vw !important;
+  }
+} 
 
 
 

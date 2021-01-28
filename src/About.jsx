@@ -16,7 +16,7 @@ const About = () => {
                                         <strong className="brand-name"> About </strong>
                                     </h1>
 
-                                    <p>
+                                    <p id="resCenter">
                                     An articulate and quick thinking young person who has a natural flair for being able to communicate and build relationships. I'm a web developer having expertise in HTML5, CSS3, JavaScript, Bootstrap5, Sass, and Material UI React. Looking towards to work with you. <br/>
                                     I turn the code into the structure. Bringing mock-ups to life using HTML, CSS, JavaScript Identifying innovative ideas and proof of concepts according to project requirements.<br/>
                                     Maintaining an organized workflow using a project management tool (like GitHub). Collaborating closely with the team to support projects during all phases of delivery. I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.<br/>
