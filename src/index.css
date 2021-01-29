@@ -126,7 +126,7 @@
 @media (max-width: 991px) {
   #header {
     width: 100vw !important;
-    margin-top: 80vh !important;
+    margin-top: 10vh !important;
     text-align: center;
   }
   
