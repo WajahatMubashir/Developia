@@ -129,6 +129,10 @@
     margin-top: 10vh !important;
     text-align: center;
   }
+
+  #header-about {
+    margin-top: 20vh !important;
+  }
   
   #header .header-img{
     text-align: center;;

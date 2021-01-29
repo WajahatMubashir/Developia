@@ -6,7 +6,7 @@ const About = () => {
 
     return (
         <>
-            <section id="header" className="d-flex align-items-center">
+            <section id="header header-about" className="d-flex align-items-center">
             <div className='container-fluid nav_bg'>
                 <div className='row'>
                     <div className='col-10 mx-auto popup1'>
