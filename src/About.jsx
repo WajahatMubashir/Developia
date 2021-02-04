@@ -1,5 +1,4 @@
 import React from 'react';
-import {NavLink} from 'react-router-dom';
 import man from "../src/Images/man.svg";
 
 const About = () => {
@@ -23,7 +22,7 @@ const About = () => {
                                     </p>
 
                                     <div className="mt-3">
-                                        <a href="https://github.com/WajahatMubashir" target="_blank" className="btn-get-started">
+                                        <a href="https://github.com/WajahatMubashir" target="_blank" className="about-btn">
                                             GitHub Profile
                                         </a>
                                     </div>
