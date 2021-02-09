@@ -4,6 +4,11 @@ const Contact = () => {
     return (
         <>
             <div className="my-5">
+
+            <a href="https://www.linkedin.com/in/wajahatwritescode/" target="_blank" className="about-btn btn-linked">
+                        LinkedIn Profile
+             </a><br/>
+
                 <h1 className="headcenter">
                     Contact 
                 </h1>

@@ -104,6 +104,17 @@
   color: white;
 }
 
+.btn-resume{
+  margin-left: 20%;
+}
+
+.btn-linked{
+  margin-left: 15%;
+  margin-bottom: 3%;
+  width: 70vw;
+  text-align: center;
+}
+
 #header-img {
   text-align: right;
   width: 400px;

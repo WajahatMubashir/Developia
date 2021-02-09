@@ -17,7 +17,7 @@ const Home = () => {
                                         <strong className="brand-name"> Wajahat Mubashir</strong>
                                     </h1>
                                     <h4 className="my-3">
-                                        A Inovative Web Developer
+                                        An Inovative Web Developer
                                     </h4>
                                     <div className="mt-3">
                                         <NavLink to="/services" className="btn-get-started">
